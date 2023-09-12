@@ -1,0 +1,19 @@
+:root {
+  --main-bg-clr: #131417;
+  --text-clr: #e9edf6;
+  --primary-clr: #a5b2d9;
+  --secondary-clr: #0b0e19;
+  --accent-clr: #475fa9;
+
+}
+
+html {
+  background-color: var(--main-bg-clr);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
