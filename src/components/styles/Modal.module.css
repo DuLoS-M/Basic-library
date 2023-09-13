@@ -1,0 +1,10 @@
+.modal {
+    background-color: var(--secondary-bg-clr);
+    border: 0;
+    border-radius: 8px;
+    
+
+    &::backdrop {
+        background-color: hsl(0, 0%, 0%, 0.8);
+    }
+}

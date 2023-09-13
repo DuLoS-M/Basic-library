@@ -1,0 +1,14 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+
+    & > button {
+        border: none;
+        border-radius: 7px;
+    }
+}
+
+
+.close-button {
+    margin-left: auto;
+}

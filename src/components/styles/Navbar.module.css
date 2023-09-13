@@ -1,3 +1,4 @@
 .header__title {
-    color: var(--primary-clr)
+    color: var(--primary-clr);
+    font-size: 2rem
 }
