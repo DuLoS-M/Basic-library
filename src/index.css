@@ -3,7 +3,7 @@
   --secondary-bg-clr: #26272e;
   --text-clr: #e9edf6;
   --primary-clr: #a5b2d9;
-  --secondary-clr: #0b0e19;
+  --secondary-clr: #151b30;
   --accent-clr: #475fa9;
 }
 
@@ -16,7 +16,8 @@ html {
   background-color: var(--main-bg-clr);
 }
 
-html, body {
+html,
+body {
   padding: 0;
   margin: 0;
   font-family: 'Roboto', sans-serif;
@@ -29,7 +30,6 @@ html, body {
   max-width: 1280px;
   margin: 0 auto;
   padding: 0.325rem;
-  text-align: center;
   min-height: 100vh;
   flex-direction: column;
 }
